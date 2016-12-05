@@ -1,2 +1,18 @@
 1. glasba.txt - *empty (new file mode 100644), porocilo.txt - *empty (new file mode 100644)
 tmp.txt - *empty (new file mode 100644)
+
+2. tmp.txt 
+@@ -0,0 +1 @@
++Izmislil sem si popolnoma izviren stavek.
+\ No newline at end of file
+
+glasba.txt 
+@@ -0,0 +1 @@
++Dancing On My Own.
+\ No newline at end of file
+
+porocilo.txt 
+@@ -0,0 +1 @@
++1. glasba.txt - *empty (new file mode 100644), porocilo.txt - *empty (new file mode 100644)
+tmp.txt - *empty (new file mode 100644)
+\ No newline at end of file
