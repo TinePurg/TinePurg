@@ -1,0 +1,2 @@
+1. glasba.txt - *empty (new file mode 100644), porocilo.txt - *empty (new file mode 100644)
+tmp.txt - *empty (new file mode 100644)
