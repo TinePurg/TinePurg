@@ -16,3 +16,9 @@ porocilo.txt
 +1. glasba.txt - *empty (new file mode 100644), porocilo.txt - *empty (new file mode 100644)
 tmp.txt - *empty (new file mode 100644)
 \ No newline at end of file
+
+3. tmp.txt
+deleted file mode 100644
+@@ -1 +0,0 @@
+-Izmislil sem si popolnoma izviren stavek.
+\ No newline at end of file
